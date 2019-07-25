@@ -1,0 +1,8 @@
+{
+    "tours": [
+        {"id": 1,"tourName": "Chennai","price": 4500},
+        {"id": 2,"tourName": "Thalassery","price": 6500},
+        {"id": 3,"tourName": "Mahabalipuram","price": 5500},
+        {"id": 4,"tourName": "Dubai","price": 10500}
+    ]
+}
